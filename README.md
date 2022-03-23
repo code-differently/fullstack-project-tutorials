@@ -1,3 +1,5 @@
 # Fullstack Project Tutorial Starters
 
-* [Firebase Spring Authentication](./FireBaseAuthenticationStarter/ReadMe.md)
+## Authentication
+
+* [Firebase Spring Authentication](./FireBaseAuthenticationStarter)
